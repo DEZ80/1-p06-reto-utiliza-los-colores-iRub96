@@ -29,4 +29,7 @@ PC: 4000
 
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1](/PixelRojo.png)
+![Actividad 1](/PixelRojo.PNG)
+![Actividad 1](/PixelCian.PNG)
+![Actividad 1](/PixelAmarillo.png)
+![Actividad 1](/PixelFondo.PNG)
